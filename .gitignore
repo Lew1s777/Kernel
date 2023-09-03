@@ -1,0 +1,6 @@
+archive/
+archive/*
+*.o
+/*.o
+linux/CONFIGS
+linux/CONFIGS/*
